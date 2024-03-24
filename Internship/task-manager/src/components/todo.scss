@@ -1,0 +1,61 @@
+.todoLoginContainer {
+    height: 80%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 52px;
+    font-size: 1.2rem;
+
+
+    .headerContainer {
+        width: 50%;
+        display: grid;
+        place-items: center;
+
+        .title {
+            border: 2px solid white;
+            width: fit-content;
+            padding: 2px 16px;
+            font-size: 1.5rem;
+            outline: 2px solid white;
+            outline-offset: 3px;
+        }
+    }
+
+    .loginFormContainer {
+        min-width: 30%;
+        border: 2px solid white;
+        padding: 24px 24px 0 24px;
+        outline: 2px solid white;
+        outline-offset: 4px;
+
+        div {
+            display: grid;
+            justify-content: flex-start;
+            grid-template-columns: 40% 1fr;
+            gap: 2px;
+            padding: 8px 0;
+
+            span:first-child {
+                text-align: end;
+            }
+            span:last-child{
+                border-bottom: 2px solid white;
+            }
+
+        }
+
+        .signUp {
+            display: flex;
+            justify-content: flex-end;
+            font-size: 0.7rem;
+        }
+
+        button {
+            margin: 16px;
+            font-size: 1.2rem;
+            color: white;
+        }
+    }
+}

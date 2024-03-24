@@ -1,0 +1,13 @@
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+    <defs></defs>
+    <g id="SVGRepo_bgCarrier" stroke-width="0"
+        transform="matrix(5.163663, 0, 0, 5.964369, 146.686325, 215.747101)" style=""></g>
+    <g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"
+        transform="matrix(5.163663, 0, 0, 5.964369, 146.686325, 215.747101)" style=""></g>
+    <g id="SVGRepo_iconCarrier"
+        transform="matrix(15.880252, 0, 0, 21.632387, 60.888531, -50.073696)" style="">
+        <path
+            d="M 22 5 L 17 5 L 20.251 5.772 C 20.251 5.22 17.748 4.944 17.196 4.944 L 8.956 5.115 C 15.098 6.418 9.991 4.723 9.991 5.275 L 14.992 5 L 2 5 C 1.23 5 0.749 5.833 1.134 6.5 C 1.313 6.809 1.643 7 2 7 L 3.117 7 L 5.008 22.124 C 5.071 22.624 5.496 23 6 23 L 18 23 C 18.504 23 18.929 22.624 18.992 22.124 L 20.883 7 L 22 7 C 22.77 7 23.251 6.167 22.866 5.5 C 22.687 5.191 22.357 5 22 5 Z M 10.913 5.812 L 15.191 5.058 L 15 5 L 7.661 6.097 L 10.913 5.812 Z M 17.117 21 L 6.883 21 L 5.133 7 L 18.867 7 L 17.117 21 Z"
+            style="fill:#FFFFFF"></path>
+    </g>
+</svg>

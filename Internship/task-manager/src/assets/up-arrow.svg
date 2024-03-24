@@ -1,0 +1,19 @@
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+    <defs></defs>
+    <g id="SVGRepo_bgCarrier" stroke-width="0"
+        transform="matrix(5.163663, 0, 0, 5.964369, 146.686325, 215.747101)" style=""></g>
+    <g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"
+        transform="matrix(5.163663, 0, 0, 5.964369, 146.686325, 215.747101)" style=""></g>
+    <g id="g-1" stroke-width="0"
+        transform="matrix(0.536248, 0, 0, 0.544901, 110.825905, 109.264893)" style="">
+        <rect x="-168.96" y="-168.96" width="849.92" height="849.92" rx="424.96" fill="#FFFFFF"
+            strokewidth="0"></rect>
+    </g>
+    <g id="g-2" stroke-linecap="round" stroke-linejoin="round"
+        transform="matrix(0.536248, 0, 0, 0.544901, 110.825905, 109.264893)" style=""></g>
+    <g id="SVGRepo_iconCarrier" transform="matrix(0.536248, 0, 0, 0.544901, 110.825905, 109.264893)"
+        style="">
+        <path style="fill:#000000;"
+            d="M 573.614 171.169 L 293.894 -56.399 C 272.051 -74.173 236.626 -74.173 214.779 -56.399 L -64.941 171.169 C -80.94 184.187 -85.726 203.763 -77.07 220.771 C -68.409 237.775 -48.006 248.864 -25.383 248.864 L 198.392 248.864 L 200.104 570.71 C 200.104 595.845 228.579 589.972 259.476 589.972 C 290.371 589.972 308.57 597.216 308.57 572.082 L 310.281 248.864 L 534.057 248.864 C 556.679 248.864 577.086 237.773 585.742 220.767 C 594.403 203.761 589.617 184.187 573.614 171.169 Z"></path>
+    </g>
+</svg>

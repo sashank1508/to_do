@@ -1,0 +1,36 @@
+.taskDetails {
+    padding: 6px 0;
+    display: grid;
+    grid-template-columns: auto 52px 52px;
+    place-items: flex-start;
+
+
+    .completeTaskButton {
+        display: inline-flex;
+        justify-content: center;
+        width: 32px;
+        height: 32px;
+        &.completed {
+            background: green;
+            border-radius: 50%;
+        }
+    }
+
+
+
+    .titleAndDescription {
+        font-size: 1.2rem;
+        display: grid;
+        gap: 4px;
+        text-align: justify;
+        padding-right: 24px;
+        grid-template-columns: auto 1fr;
+
+        .taskId {
+            font-weight: 600;
+            min-width: 13%;
+        }
+
+    }
+
+}
